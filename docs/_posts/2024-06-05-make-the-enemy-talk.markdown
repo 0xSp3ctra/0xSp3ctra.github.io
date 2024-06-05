@@ -2,7 +2,7 @@
 layout: post
 title: "Make The Enemy Talk"
 date: 2024-06-05 16:07:00 +0200
-categories: forensic volatility keepass
+categories: 
 ---
 
 # Make the Enemy Talk [1/2]
