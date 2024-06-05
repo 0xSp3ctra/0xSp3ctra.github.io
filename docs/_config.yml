@@ -21,14 +21,14 @@
 title: Spectra's blog
 email: 0xspectra@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersec projets, stuff, posts
+  Cybersec projets, stuff & posts
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://0xsp3ctra.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0xSpectra0x10001
 github_username:  0xSp3ctra
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
